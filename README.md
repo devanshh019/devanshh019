@@ -383,17 +383,17 @@ Built a deep learning computer vision system capable of recognizing Indian cattl
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/TTWRtcgB8y/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.kaggle.com/">
+<a href="https://www.kaggle.com/devanshkumarverma">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
 
 </div>
 
-> *If you later create GeeksforGeeks, CodeChef, or HackerRank profiles, they can be added here without changing the layout.*
+
 
 ---
 
@@ -412,16 +412,6 @@ Built a deep learning computer vision system capable of recognizing Indian cattl
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=devanshh019&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devanshh019&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
 
 </div>
 
