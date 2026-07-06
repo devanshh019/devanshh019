@@ -510,9 +510,7 @@ OpenTo:
 
 ---
 
-# GitHub Contribution Snake
-
-<div align="center">
+## 🐍 Contribution Snake
 
 <picture>
 
@@ -521,26 +519,15 @@ media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/devanshh019/devanshh019/output/github-contribution-grid-snake-dark.svg">
 
 <img
-alt="github contribution snake"
+alt="snake"
 src="https://raw.githubusercontent.com/devanshh019/devanshh019/output/github-contribution-grid-snake.svg">
 
 </picture>
 
-</div>
-
 ---
 
-# Weekly Development Breakdown
 
-> *(Enable this after connecting WakaTime.)*
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # Random Dev Quote
 
@@ -560,7 +547,7 @@ src="https://raw.githubusercontent.com/devanshh019/devanshh019/output/github-con
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/devansh-1308ar">
+<a href="https://www.linkedin.com/in/devansh-verma-ai/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -568,11 +555,11 @@ src="https://raw.githubusercontent.com/devanshh019/devanshh019/output/github-con
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/">
+<a href="https://www.kaggle.com/devanshkumarverma">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/TTWRtcgB8y/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
